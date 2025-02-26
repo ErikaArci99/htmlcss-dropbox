@@ -76,10 +76,20 @@ h1{
     border: 1px solid rgb(168, 168, 168);
 }
 
+.col-100{
+    width: 100%;
+    border: 1px solid rgb(168, 168, 168);
+}
+
 /* Utility */
 
 .display-block{
     display: block;
+}
+
+.display-flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .display-flex-space-between{
