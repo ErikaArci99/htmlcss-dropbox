@@ -69,6 +69,14 @@ h1{
     width: 20%;
 }
 
+.img-container{
+    width: 60%;
+}
+
+.text-container{
+    width: 40%;
+}
+
 /* colonne */
 
 .col-30{
@@ -205,6 +213,10 @@ h1{
     margin-left: 730px;
 }
 
+.margin-top-220{
+    margin-top: 220px;
+}
+
 /* font-size */
 
 .font-size-20{
@@ -255,8 +267,22 @@ h1{
     height: 900px;
 }
 
+.height-500{
+    height: 500px;
+}
+
 /* larghezze */
 
 .width-195{
     width: 195px;
+}
+
+.width-600{
+    width: 600px;
+}
+
+/* bordi */
+
+.black-button-border{
+    border: 1px solid black;
 }
