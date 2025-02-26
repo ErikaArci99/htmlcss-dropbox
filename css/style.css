@@ -99,6 +99,11 @@ h1{
     flex-wrap: wrap;
 }
 
+.display-flex-gap-50{
+    display: flex;
+    gap: 50px;
+}
+
 .display-flex-space-between{
     display: flex;
     justify-content: space-between;
