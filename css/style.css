@@ -9,18 +9,49 @@ body{
 }
 
 header{
-    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    background-color: white;
 }
 
 .buttons{
-    padding: 5px 15px 5px 15px;
+    padding: 10px 15px 10px 15px;
+}
+
+.color-jumbotrone{
+    background-color: #B4D0E6;
+}
+
+.container-jumbo{
+    width: 70%;
+}
+
+h1{
+    font-size: 90px;
+}
+
+.jumbo-img{
+    position: absolute;
+    top: 460px;
+    left: 740px;
+    width: 820px;
+    height: 500px;
 }
 
 /* Utility */
 
+.display-block{
+    display: block;
+}
+
 .display-flex-space-between{
     display: flex;
     justify-content: space-between;
+}
+
+.display-flex-justify-center{
+    display: flex;
+    justify-content: center;
 }
 
 /* padding */
@@ -47,10 +78,38 @@ header{
     margin-right: 25px;
 }
 
+.margin-top-100{
+    margin-top: 100px;
+}
+
+.margin-top-70{
+    margin-top: 70px;
+}
+
+.margin-top-5{
+    margin-top: 5px;
+}
+
+.margin-bottom-40{
+    margin-bottom: 40px;
+}
+
+.margin-top-40{
+    margin-top: 40px;
+}
+
+.margin-bottom-25{
+    margin-bottom: 25px;
+}
+
 /* font-size */
 
 .font-size-20{
     font-size: 20px;
+}
+
+.font-size-50{
+    font-size: 50px;
 }
 
 /* bc colori */
