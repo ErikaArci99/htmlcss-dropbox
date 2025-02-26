@@ -271,6 +271,11 @@ h1{
     height: 500px;
 }
 
+.height-210{
+    height: 210px;
+}
+
+
 /* larghezze */
 
 .width-195{
@@ -279,6 +284,10 @@ h1{
 
 .width-600{
     width: 600px;
+}
+
+.width-265{
+    width: 265px;
 }
 
 /* bordi */
