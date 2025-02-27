@@ -80,6 +80,12 @@ h1{
     width: 40%;
 }
 
+.f-hr{
+    min-height: 2px;
+    background-color: white;
+    width: 10%;
+}
+
 /* colonne */
 
 .col-30{
@@ -260,6 +266,10 @@ h1{
 
 .text-blue{
     color: blue;
+}
+
+.text-grey{
+    color: #9A9899;
 }
 
 /* text-align */
